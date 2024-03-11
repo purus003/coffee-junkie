@@ -13,4 +13,4 @@ HTML
 7. Internal and external navigations
 8. Input tags
 
-To see the Live Demo, please visit [Demo Link](#).
+To see the Live Demo, go to: [Coffee-Junkie Live Demo](https://purus003.github.io/coffee-junkie/)
