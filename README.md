@@ -1,15 +1,16 @@
-## Welcome to cofee-Junkie Project
+## Welcome to Coffee-Junkie Project
 
-## Technologies Used:HTML
+## Technologies Used:
+HTML
+
 ## HTML Concepts:
-1.heading tags
-2.paragraph tag
-3.img tag
-4.anchor tag
-5.tables
-6.lists
-7.internal and external navigations
-8.input tags
- 
+1. Heading tags
+2. Paragraph tag
+3. Image tag
+4. Anchor tag
+5. Tables
+6. Lists
+7. Internal and external navigations
+8. Input tags
 
- To see the Live Demo Go to:
+To see the Live Demo, please visit [Demo Link](#).
